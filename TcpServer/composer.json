@@ -1,0 +1,6 @@
+{
+    "require": {
+        "evenement/evenement": "^3.0",
+        "psr/log": "^1.1"
+    }
+}
